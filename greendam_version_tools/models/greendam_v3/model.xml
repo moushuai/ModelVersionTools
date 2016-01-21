@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Model name="greendam">
+	<Version>greendam_v3</Version>
+	<Path>greendam_v3\distribution.zip</Path>
+	<Date>2016-01-21</Date>
+	<Data>dasdadsfsdfdfsfds</Data>
+	<StdPerformance>
+		<Label>
+			<Result>810(46.44%)</Result>
+			<Result>825(47.31%)</Result>
+			<Result>109(6.25%)</Result>
+		</Label>
+		<Label>
+			<Result>4(4.35%)</Result>
+			<Result>88(95.65%)</Result>
+			<Result>0(0.00%)</Result>
+		</Label>
+		<Label>
+			<Result>12(7.32%)</Result>
+			<Result>107(65.24%)</Result>
+			<Result>45(27.44%)</Result>
+		</Label>
+		<Accuracy>943(47.15%)</Accuracy>
+	</StdPerformance>
+	<ApdPerformance><Performance time="2016-01-21 16:08:32"><Label><Result>810(46.44%)</Result><Result>825(47.31%)</Result><Result>109(6.25%)</Result></Label><Label><Result>4(4.35%)</Result><Result>88(95.65%)</Result><Result>0(0.00%)</Result></Label><Label><Result>12(7.32%)</Result><Result>107(65.24%)</Result><Result>45(27.44%)</Result></Label><Accuracy>943(47.15%)</Accuracy></Performance><Performance time="2016-01-21 16:07:38"><Label><Result>810(46.44%)</Result><Result>825(47.31%)</Result><Result>109(6.25%)</Result></Label><Label><Result>4(4.35%)</Result><Result>88(95.65%)</Result><Result>0(0.00%)</Result></Label><Label><Result>12(7.32%)</Result><Result>107(65.24%)</Result><Result>45(27.44%)</Result></Label><Accuracy>943(47.15%)</Accuracy></Performance></ApdPerformance>
+</Model>
